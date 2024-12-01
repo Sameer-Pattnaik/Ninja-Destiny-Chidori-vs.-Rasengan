@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/f0dc46d8-c064-4fdb-8706-0c734d11dbaa)## **Documentation: Ninja Destiny: Chidori vs. Rasengan**
+![image](https://github.com/user-attachments/assets/f0dc46d8-c064-4fdb-8706-0c734d11dbaa)
+
+## **Documentation: Ninja Destiny: Chidori vs. Rasengan**
 
 ### **Overview**
 This game, "Ninja Destiny: Chidori vs. Rasengan," is a two-player-inspired game where Naruto and Sasuke battle it out. The player (Naruto) must attack Sasuke using shurikens while avoiding hits. Sasuke moves automatically and can damage Naruto upon collision.
