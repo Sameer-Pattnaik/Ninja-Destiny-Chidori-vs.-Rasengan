@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/f0dc46d8-c064-4fdb-8706-0c734d11dbaa)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7B178h7q5XQnAARD4dDeg4KPSY4HGaY6omw&s)
 
 ## **Documentation: Ninja Destiny: Chidori vs. Rasengan**
 
@@ -113,7 +114,7 @@ Represents Sasuke's movements, animations, and health.
 
 ---
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7B178h7q5XQnAARD4dDeg4KPSY4HGaY6omw&s
+
 
 ### **Possible Enhancements**
 1. **Add Multiplayer Mode:** Allow a second player to control Sasuke.
