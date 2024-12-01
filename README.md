@@ -1,7 +1,3 @@
-Here is the detailed documentation for the game code, along with a guide for adding pictures:
-
----
-
 ## **Documentation: Ninja Destiny: Chidori vs. Rasengan**
 
 ### **Overview**
@@ -124,10 +120,8 @@ Represents Sasuke's movements, animations, and health.
    ![Game Screenshot](photos/game_screenshot.png)
    ```
 3. **Example Sections:**
-   - **Game Preview:**
-     ![Game Screenshot](photos/game_preview.png)
    - **Naruto vs. Sasuke:**
-     ![Naruto and Sasuke](photos/naruto_sasuke_preview.png)
+     https://static1.srcdn.com/wordpress/wp-content/uploads/2022/12/naruto-sasuke.jpg
 
 #### **Tips for Screenshots:**
 - Use the `pygame.image.save()` function to capture game screenshots directly:
@@ -144,4 +138,4 @@ Represents Sasuke's movements, animations, and health.
 4. **Boss Battle:** Add other characters as unlockable bosses.
 5. **High Scores:** Display the winner's score at the end of the game.
 
-Let me know if you want help implementing enhancements or debugging further! 😊
+
