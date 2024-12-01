@@ -1,4 +1,4 @@
-## **Documentation: Ninja Destiny: Chidori vs. Rasengan**
+![image](https://github.com/user-attachments/assets/f0dc46d8-c064-4fdb-8706-0c734d11dbaa)## **Documentation: Ninja Destiny: Chidori vs. Rasengan**
 
 ### **Overview**
 This game, "Ninja Destiny: Chidori vs. Rasengan," is a two-player-inspired game where Naruto and Sasuke battle it out. The player (Naruto) must attack Sasuke using shurikens while avoiding hits. Sasuke moves automatically and can damage Naruto upon collision.
@@ -111,25 +111,7 @@ Represents Sasuke's movements, animations, and health.
 
 ---
 
-### **Adding Pictures**
-
-#### **Steps to Include Pictures in the Documentation:**
-1. **Prepare Images:** Take screenshots or export the necessary assets, such as the game interface, character sprites, and health bars.
-2. **Embed Images:** Save the images in the documentation folder and reference them like this:
-   ```markdown
-   ![Game Screenshot](photos/game_screenshot.png)
-   ```
-3. **Example Sections:**
-   - **Naruto vs. Sasuke:**
-     https://static1.srcdn.com/wordpress/wp-content/uploads/2022/12/naruto-sasuke.jpg
-
-#### **Tips for Screenshots:**
-- Use the `pygame.image.save()` function to capture game screenshots directly:
-  ```python
-  pygame.image.save(win, "photos/game_screenshot.png")
-  ```
-
----
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7B178h7q5XQnAARD4dDeg4KPSY4HGaY6omw&s
 
 ### **Possible Enhancements**
 1. **Add Multiplayer Mode:** Allow a second player to control Sasuke.
